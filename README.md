@@ -1,4 +1,4 @@
-# Agent App Framework
+# Agent App Framework ---experimental
 
 A Next.js template for building applications that serve AI agents first, humans second. Authentication uses [fishnet-auth](https://www.npmjs.com/package/fishnet-auth) -- a reverse CAPTCHA that verifies callers are AI agents by having them solve reasoning tasks.
 
