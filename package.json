@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@types/uuid": "^10.0.0",
-    "fishnet-auth": "^0.1.0-beta.3",
+    "fishnet-auth": "^0.1.0-beta.4",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3",
