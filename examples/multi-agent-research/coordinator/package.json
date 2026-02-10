@@ -1,0 +1,25 @@
+{
+  "name": "coordinator-agent",
+  "version": "1.0.0",
+  "description": "Coordinator agent for multi-agent research system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "agent",
+    "coordinator",
+    "multi-agent",
+    "research"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
